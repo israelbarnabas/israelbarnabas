@@ -1,11 +1,15 @@
 ### Hi there 👋 I'm Israel Barnabas!
 
-I'm a Machine Learning enthusiast with a background in Telecommunications Engineering, passionate about building intelligent systems.
+I'm a Telecommunication Engineering student with a growing passion for Machine Learning and Artificial Intelligence. I’m currently exploring how data and algorithms can solve real-world problems, and I enjoy working on beginner-friendly ML projects as part of my learning journey.
 
-- 🔭 I’m currently working on: Machine Learning projects
-- 🌱 I’m currently learning: Deep learning using Tensorflow
-- 💬 Ask me about: Python, ML, Deep Learning
-- 📫 How to reach me: israeltwum062@gmail.com
+- 🎓 Background in Telecommunication Engineering  
+- 🧠 Learning Python, Scikit-learn, and TensorFlow  
+- 📊 Exploring machine learning, deep learning, and data visualization  
+- 🌱 Currently building projects and sharing my ML journey  
+- 🚀 Interested in AI applications in communications and smart systems  
+
+Come with me and let's explore the world of Machine Learning together! 🌍✨
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelbarnabas&show_icons=true&theme=radical)
 
