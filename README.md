@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Israel Barnabas!
 
-I'm a Telecommunication Engineering student with a growing passion for Machine Learning and Artificial Intelligence. I’m currently exploring how data and algorithms can solve real-world problems, and I enjoy working on beginner-friendly ML projects as part of my learning journey.
+I'm a Telecommunication Engineering student with a growing passion for Machine Learning and Artificial Intelligence. I’m currently exploring how data and algorithms can solve real-world problems, and I enjoy working on ML projects as part of my learning journey.
 
 - 🎓 Background in Telecommunication Engineering  
 - 🧠 Learning Python, Scikit-learn, and TensorFlow  
